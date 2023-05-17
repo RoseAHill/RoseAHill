@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, webapps, tailwind, or education**
 
-- 📫 How to reach me [by sending an email](mailto:roseaahill@gmail.com)
+- 📫 Contact me through [my email](mailto:roseaahill@gmail.com)
 
 - 📄 Know about my experiences [through this resume](https://drive.google.com/file/d/1hC9voy77VKsBWjD-EqNZPefN1TCzohRg/view?usp=sharing)
 
