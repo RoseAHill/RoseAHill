@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **game development**
 
-- 👨‍💻 All of my projects are available at [https://rosieahill.com/](https://rosieahill.com/)
+- 👨‍💻 Some of my projects are available at [my personal website](https://rosieahill.com/)
 
-- 💬 Ask me about **react, webapps, tailwind, education**
+- 💬 Ask me about **react, webapps, tailwind, or education**
 
-- 📫 How to reach me **roseaahill@gmail.com**
+- 📫 How to reach me [by sending an email](mailto:roseaahill@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hC9voy77VKsBWjD-EqNZPefN1TCzohRg/view?usp=sharing](https://drive.google.com/file/d/1hC9voy77VKsBWjD-EqNZPefN1TCzohRg/view?usp=sharing)
+- 📄 Know about my experiences [through this resume](https://drive.google.com/file/d/1hC9voy77VKsBWjD-EqNZPefN1TCzohRg/view?usp=sharing)
 
-- ⚡ Fun fact: **my favorite animals are seals 🦭**
+- ⚡ Fun fact: **my favorite animals are seals 🦭 and cats 🐈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
