@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [my portfolio dashboard](https://github.com/RoseAHill/portfolio-dashboard)
 
-- 🌱 I’m currently learning **game development**
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
 - 👨‍💻 Some of my projects are available at [my personal website](https://rosieahill.com/)
 
-- 💬 Ask me about **react, webapps, tailwind, or education**
+- 💬 Ask me about **react, webapps, or tailwind**
 
-- 📫 Contact me through [my email](mailto:roseaahill@gmail.com)
+- 📫 Contact me through [my email](mailto:roseaahill+portfolio@gmail.com)
 
-- 📄 Know about my experiences [through this resume](https://drive.google.com/file/d/1hC9voy77VKsBWjD-EqNZPefN1TCzohRg/view?usp=sharing)
+- 📄 Know about my experiences [through this resume](https://drive.google.com/file/d/1Y0v00GWK3l1DVtunZOFYo7U_j258rqc8/view)
 
 - ⚡ Fun fact: **my favorite animals are seals 🦭 and cats 🐈**
 
