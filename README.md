@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
-- 👨‍💻 Some of my projects are available at [my personal website](https://rosieahill.com/)
+- 👨‍💻 Some of my projects are available at [my personal website](https://sites.byrosier.com/)
 
 - 💬 Ask me about **react, webapps, or tailwind**
 
