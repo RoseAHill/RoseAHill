@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rosie</h1>
-<h3 align="center">A passionate fullstack developer from Washington D.C.</h3>
+<h3 align="center">A passionate fullstack developer and technical writer from Washington D.C.</h3>
 
-- 🔭 I’m currently working on [my portfolio dashboard](https://github.com/RoseAHill/portfolio-dashboard)
+- 🔭 I’m currently working on [my documentation portfolio](https://docs.rosieahill.com/Home)
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently developing **Comuter Science Instructional Tutorials**
 
-- 👨‍💻 Some of my projects are available at [my personal website](https://sites.byrosier.com/)
+- 👨‍💻 Some of my projects are available at [my personal website](https://rosieahill.com/)
 
-- 💬 Ask me about **react, webapps, or tailwind**
+- 💬 Ask me about **technical documentation**
 
 - 📫 Contact me through [my email](mailto:roseaahill+portfolio@gmail.com)
 
-- 📄 Know about my experiences [through this resume](https://drive.google.com/file/d/1Y0v00GWK3l1DVtunZOFYo7U_j258rqc8/view)
+- 📄 Know about my experiences [through this resume](https://drive.google.com/file/d/17yxm8D1YFkkpYJJbVKfeGYDLy52juruI/view)
 
 - ⚡ Fun fact: **my favorite animals are seals 🦭 and cats 🐈**
 
