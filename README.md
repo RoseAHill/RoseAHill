@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rosie</h1>
 <h3 align="center">A passionate fullstack developer and technical writer from Washington D.C.</h3>
 
-- 🔭 I’m currently working on [my documentation portfolio](https://docs.rosieahill.com/Home)
+- 🔭 I’m currently working on [miscellaneous pet projects](https://github.com/RoseAHill/pyding-timeaid)
 
 - 🌱 I’m currently developing **Comuter Science Instructional Tutorials**
 
@@ -11,8 +11,7 @@
 
 - 📫 Contact me through [my email](mailto:roseaahill+portfolio@gmail.com)
 
-- 📄 Know about my experiences [through this resume](https://drive.google.com/file/d/17yxm8D1YFkkpYJJbVKfeGYDLy52juruI/view)
-
+<!-- - 📄 Know about my experiences [through this resume](https://drive.google.com/file/d/17yxm8D1YFkkpYJJbVKfeGYDLy52juruI/view) -->
 - ⚡ Fun fact: **my favorite animals are seals 🦭 and cats 🐈**
 
 <h3 align="left">Connect with me:</h3>
